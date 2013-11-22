@@ -1,0 +1,19 @@
+{
+  "name": "purpose-of-art",
+  "version": "0.0.1",
+  "description": "Quotes on the purpose of art",
+  "homepage": "http://thepurposeofart.com",
+  "author": "Jody Tate  <jody@josephtate.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jodytate/thepurposeofart.com.git"
+  },
+  "devDependencies": {
+    "grunt-cli": "~0.1.11",
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-sass": "~0.5.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-uglify": "~0.2.7"
+  }
+}
