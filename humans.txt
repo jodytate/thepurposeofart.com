@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Jody Tate -- Interface Designer and Developer -- jtate@uw.edu
+    Jody Tate -- @josephtate
 
 # THANKS
 
@@ -18,5 +18,4 @@
     Bootstrap,
     Grunt,
     Sass,
-    Angular
     EVERYTHING
